@@ -53,9 +53,9 @@ Personal website for a psychology practice. Clean, trust-building design with ap
 
 ### Contact
 
-:globe_with_meridians: **Kwork:** [your-kwork-profile-link]
-:envelope: **Email:** [your-email@example.com]
-:speech_balloon: **Telegram:** [@your_telegram]
+:globe_with_meridians: **Kwork:** https://kwork.ru/user/solideodev
+:envelope: **Email:** aubekirov.portfolio@gmail.com
+:speech_balloon: **Telegram:** kocelot
 
 ---
 
