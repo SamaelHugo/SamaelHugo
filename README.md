@@ -46,8 +46,9 @@ My goal is simple: your site should load fast, look sharp, and turn visitors int
 Dark-themed B2B landing page with a 5-step quiz calculator for cost estimation.
 `React` `Tailwind CSS` `Interactive UI`
 
-**Psychologist Website** — :construction: *Coming Soon*
-Personal website for a psychology practice. Clean, trust-building design with appointment booking.
+**Psychologist — Online Booking Website**
+Clean, warm landing page with interactive booking calendar and payment integration for a private therapy practice.
+🔗 [Live Demo](https://samaelhugo.github.io/psychologist-site/)
 
 ---
 
