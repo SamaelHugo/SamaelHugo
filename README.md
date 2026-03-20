@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Samael Hugo</h1>
+<p align="center"><b>Frontend Developer — Websites & Landing Pages That Convert</b></p>
 
-<!--
-**SamaelHugo/SamaelHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=6C9EFF&center=true&vCenter=true&width=500&lines=Clean+code.+Fast+sites.+Real+results." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+I build fast, clean, and conversion-focused websites for small businesses and B2B companies.
+My goal is simple: your site should load fast, look sharp, and turn visitors into clients.
+
+**Stack:** HTML, CSS, JavaScript, React, Tailwind CSS
+
+---
+
+### What I Build
+
+| | |
+|---|---|
+| :rocket: **Landing Pages** | High-converting pages with clear CTAs and fast load times |
+| :briefcase: **Business Websites** | Professional web presence for small and mid-size companies |
+| :bar_chart: **Interactive Calculators & Quizzes** | Engaging tools that qualify leads and boost conversions |
+| :iphone: **Responsive Mobile-First Design** | Pixel-perfect layouts that work on every screen |
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### Featured Projects
+
+**[DocFlow — B2B Calculator Landing](https://samaelhugo.github.io/b2b-calculator/)**
+Dark-themed B2B landing page with a 5-step quiz calculator for cost estimation.
+`React` `Tailwind CSS` `Interactive UI`
+
+**Psychologist Website** — :construction: *Coming Soon*
+Personal website for a psychology practice. Clean, trust-building design with appointment booking.
+
+---
+
+### Contact
+
+:globe_with_meridians: **Kwork:** [your-kwork-profile-link]
+:envelope: **Email:** [your-email@example.com]
+:speech_balloon: **Telegram:** [@your_telegram]
+
+---
+
+<p align="center"><i>Open to freelance projects — let's build something great.</i></p>
