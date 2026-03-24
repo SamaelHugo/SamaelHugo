@@ -50,6 +50,10 @@ Dark-themed B2B landing page with a 5-step quiz calculator for cost estimation.
 Clean, warm landing page with interactive booking calendar and payment integration for a private therapy practice.
 🔗 [Live Demo](https://samaelhugo.github.io/psychologist-site/)
 
+**ÉKOS — Fashion Catalog**
+Premium fashion catalog with video hero, product filtering, quick-view modal, and cart sidebar.
+🔗 [Live Demo](https://samaelhugo.github.io/fashion-catalog/)
+
 ---
 
 ### Contact
