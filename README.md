@@ -43,17 +43,21 @@ My goal is simple: your site should load fast, look sharp, and turn visitors int
 
 ### Featured Projects
 
-**[DocFlow — B2B Calculator Landing](https://samaelhugo.github.io/b2b-calculator/)**
+**DocFlow — B2B Calculator Landing**
 Dark-themed B2B landing page with a 5-step quiz calculator for cost estimation.
-`React` `Tailwind CSS` `Interactive UI`
+🔗 [Live Demo](https://samaelhugo.github.io/b2b-calculator/)
 
 **Psychologist — Online Booking Website**
-Clean, warm landing page with interactive booking calendar and payment integration for a private therapy practice.
+Clean landing page with interactive booking calendar and payment integration for a private therapy practice.
 🔗 [Live Demo](https://samaelhugo.github.io/psychologist-site/)
 
 **ÉKOS — Fashion Catalog**
 Premium fashion catalog with video hero, product filtering, quick-view modal, and cart sidebar.
 🔗 [Live Demo](https://samaelhugo.github.io/fashion-catalog/)
+
+**ÉKOS React — Fashion Catalog (React)**
+React rebuild of the fashion catalog with routing, Zustand state management, and Framer Motion animations.
+🔗 [Live Demo](https://samaelhugo.github.io/ekos-react/)
 
 ---
 
