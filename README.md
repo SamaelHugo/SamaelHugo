@@ -43,6 +43,11 @@ My goal is simple: your site should load fast, look sharp, and turn visitors int
 
 ### Featured Projects
 
+**Pulse CRM — Sales Dashboard**
+Fullstack CRM with analytics, client management, deals pipeline, and authentication.
+🔗 [Live Demo](https://pulse-crm-zeta.vercel.app)
+Demo: admin@pulse.ru / demo123
+
 **DocFlow — B2B Calculator Landing**
 Dark-themed B2B landing page with a 5-step quiz calculator for cost estimation.
 🔗 [Live Demo](https://samaelhugo.github.io/b2b-calculator/)
