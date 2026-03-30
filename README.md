@@ -48,6 +48,10 @@ Fullstack CRM with analytics, client management, deals pipeline, and authenticat
 🔗 [Live Demo](https://pulse-crm-zeta.vercel.app)
 Demo: admin@pulse.ru / demo123
 
+**TERRA — Premium Supplements Store**
+Fullstack e-commerce with glassmorphism design, product catalog, cart, and Strapi CMS admin panel.
+🔗 [Live Demo](https://terra-store-gamma.vercel.app)
+
 **DocFlow — B2B Calculator Landing**
 Dark-themed B2B landing page with a 5-step quiz calculator for cost estimation.
 🔗 [Live Demo](https://samaelhugo.github.io/b2b-calculator/)
