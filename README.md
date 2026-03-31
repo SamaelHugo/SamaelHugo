@@ -156,7 +156,7 @@
 <h3>Activity</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaelHugo&theme=default&hide_border=true&ring=2B5A8C&fire=C9A84C&currStreakLabel=2B5A8C" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaelHugo&layout=compact&hide_border=true&title_color=2B5A8C&text_color=2C2C2C" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamaelHugo&layout=compact&hide_border=true&title_color=2B5A8C&text_color=2C2C2C" width="49%" />
 
 </div>
 
