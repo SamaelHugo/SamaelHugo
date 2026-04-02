@@ -55,7 +55,39 @@
 <br>
 
 <table>
+
+  <tr>
+<td width="50%">
+
+<h4 align="center">🔥 CARBONE</h4>
+<p align="center">Barbershop & tattoo — dark cinematic site</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/Framer_Motion-05F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lenis-000?style=flat-square" />
+</p>
+<p align="center">
+  <a href="https://carbone-studio.vercel.app">🔗 Live</a> · <a href="https://github.com/SamaelHugo/carbone-studio">📁 Repo</a>
+</p>
+
+</td>
+<td width="50%">
+
+<h4 align="center">🏠 MAISON BLEU</h4>
+<p align="center">French furniture brand — catalog + CMS</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/TinaCMS-EC4815?style=flat-square" />
+  <img src="https://img.shields.io/badge/Framer_Motion-05F?style=flat-square" />
+</p>
+<p align="center">
+  <a href="https://maison-bleu-one.vercel.app">🔗 Live</a> · <a href="https://github.com/SamaelHugo/maison-bleu">📁 Repo</a>
+</p>
+
+</td>
+</tr>
 <tr>
+  
 <td width="50%">
 
 <h4 align="center">🏠 MAISON BLEU</h4>
