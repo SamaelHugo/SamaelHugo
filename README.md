@@ -55,8 +55,7 @@
 <br>
 
 <table>
-
-  <tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">🔥 CARBONE</h4>
@@ -71,9 +70,6 @@
 </p>
 
 </td>
-</tr>
-<tr>
-  
 <td width="50%">
 
 <h4 align="center">🏠 MAISON BLEU</h4>
@@ -88,6 +84,8 @@
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">📊 PULSE CRM</h4>
@@ -102,8 +100,6 @@
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h4 align="center">💎 TERRA</h4>
@@ -118,6 +114,8 @@
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">👗 ÉKOS REACT</h4>
@@ -132,8 +130,6 @@
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h4 align="center">📄 DOCFLOW</h4>
@@ -148,6 +144,8 @@
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">🧠 PSYCHOLOGIST</h4>
@@ -159,6 +157,20 @@
 </p>
 <p align="center">
   <a href="https://samaelhugo.github.io/psychologist-site">🔗 Live</a> · <a href="https://github.com/SamaelHugo/psychologist-site">📁 Repo</a>
+</p>
+
+</td>
+<td width="50%">
+
+<h4 align="center">👗 ÉKOS</h4>
+<p align="center">Fashion catalog — HTML version</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+</p>
+<p align="center">
+  <a href="https://samaelhugo.github.io/fashion-catalog">🔗 Live</a> · <a href="https://github.com/SamaelHugo/fashion-catalog">📁 Repo</a>
 </p>
 
 </td>
@@ -174,7 +186,6 @@
 <h3>Activity</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamaelHugo&theme=default&hide_border=true&ring=2B5A8C&fire=C9A84C&currStreakLabel=2B5A8C" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamaelHugo&layout=compact&hide_border=true&title_color=2B5A8C&text_color=2C2C2C" width="49%" />
 
 </div>
 
