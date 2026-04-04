@@ -26,6 +26,14 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff" />
 </p>
 
+**3D & Animation**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Three_Fiber-000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" />
+  <img src="https://img.shields.io/badge/Lenis-000?style=for-the-badge&logoColor=fff" />
+</p>
+
 **Backend**
 
 <p>
@@ -58,6 +66,20 @@
 <tr>
 <td width="50%">
 
+<h4 align="center">🌙 VESPER</h4>
+<p align="center">Luxury perfume brand — real-time 3D bottle</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/R3F-000?style=flat-square&logo=threedotjs" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square" />
+</p>
+<p align="center">
+  <a href="https://vesper-parfum.vercel.app">🔗 Live</a> · <a href="https://github.com/SamaelHugo/vesper-parfum">📁 Repo</a>
+</p>
+
+</td>
+<td width="50%">
+
 <h4 align="center">🔥 CARBONE</h4>
 <p align="center">Barbershop & tattoo — dark cinematic site</p>
 <p align="center">
@@ -70,6 +92,8 @@
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">🏠 MAISON BLEU</h4>
@@ -84,8 +108,6 @@
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h4 align="center">📊 PULSE CRM</h4>
@@ -100,6 +122,8 @@
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">💎 TERRA</h4>
@@ -114,8 +138,6 @@
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h4 align="center">👗 ÉKOS REACT</h4>
@@ -130,6 +152,8 @@
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h4 align="center">📄 DOCFLOW</h4>
@@ -144,8 +168,6 @@
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h4 align="center">🧠 PSYCHOLOGIST</h4>
@@ -160,7 +182,9 @@
 </p>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" colspan="2">
 
 <h4 align="center">👗 ÉKOS</h4>
 <p align="center">Fashion catalog — HTML version</p>
